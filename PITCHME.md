@@ -38,13 +38,13 @@ dei dati relativi alla terra e all’ambiente.
 
 ---
 
-## La shell
+# La shell
 
 Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto dell'utente.
 
 +++
 
-## La command line
+## La shell
 
 - è Agile
 - è Scalabile
@@ -58,6 +58,14 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 +++
 
 ## bash è una shell
+
+## 5 tipi di tool
+
+- A binary executable
+- A shell builtin
+- An interpreted script
+- A shell function
+- An alias
 
 ---
 
