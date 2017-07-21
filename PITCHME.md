@@ -6,7 +6,7 @@
 <br>
 <span style="color:gray"><a href="https://twitter.com/aborruso" target="_blank">@aborruso</a></span>
 
-+++
++++?image=imgs/osm.png&size=contain
 
 # whoIam
 Sono un geomatico
