@@ -223,10 +223,32 @@ curl "https://it.wikipedia.org/wiki/Comuni_d%27Italia_(Z)?oldformat=true" | \
 scrape -be "//table[1]//tr/td[1]/a" | \
 xmlstarlet sel --html -t -m "//a" -v "." -n
 ```
-
 +++
 
 ## Quanti sono?
+
++++
+
+## Tutti i file vettoriali del progetto Copernicus 1
+
+Pagina di partenza: [copernicus](http://emergency.copernicus.eu/mapping/list-of-components/EMSR213).
+
+```bash
+curl "http://emergency.copernicus.eu/mapping/list-of-components/EMSR213" | \
+scrape -be "//a[contains(@href,'vector')]" 
+```
+
++++
+
+## Tutti i file vettoriali del progetto Copernicus 2
+
+Pagina di partenza: [copernicus](http://emergency.copernicus.eu/mapping/list-of-components/EMSR213)
+
+```bash
+curl "http://emergency.copernicus.eu/mapping/list-of-components/EMSR213" | \
+scrape -be "//a[contains(@href,'vector')]" | 
+xmlstarlet sel -t -m "//a" -o "http://emergency.copernicus.eu" -v "@href" -n
+```
 
 ---
 
