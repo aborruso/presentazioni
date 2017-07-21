@@ -270,6 +270,7 @@ jq homepage: [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
   "ruolo": "cuoco"
 }
 ```
++++?gist=f089f4e5c60106be973e13948aec55bb
 
 ---
 
