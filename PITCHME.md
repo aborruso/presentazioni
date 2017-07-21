@@ -132,18 +132,38 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 # on the job
 
----
++++
 
 ## Download di un dato
 
 ```bash
 # visualizzo
-curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv"
+curl "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv"
 # scarico il file
 curl "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
 # scarico il file in modalità silent
 curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
 ```
+
++++
+
+## Visualizzarne solo alcune righe
+
+```bash
+# le prime 5
+head -n 5 artworks.csv
+# le ultime 5
+tail -n 5 artworks.csv
+```
+
++++
+
+## Visualizzarne solo alcune colonne
+
+```
+csvcut  -c 1,3 artworks.csv
+head -n 3 artworks.csv | csvcut  -c 1,3
+head -n 3 artworks.csv | csvcut  -c 1,3 | csvlook
 
 ---
 
