@@ -32,6 +32,6 @@ dei dati relativi alla terra e all’ambiente.
 
 ![](./imgs/tools.jpg)
 
-+++?image=imgs/pipes.jpg
++++?image=imgs/pipes.jpg&size=cover
 
-+++?image=imgs/lemmings.jpg
++++?image=imgs/lemmings.jpg&size=cover
