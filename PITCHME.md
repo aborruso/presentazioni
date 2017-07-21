@@ -38,9 +38,27 @@ dei dati relativi alla terra e all’ambiente.
 
 ---
 
-La command line
+## La shell
+
+Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto dell'utente.
+
+## La command line
 
 - è Agile
 - è Scalabile
 - è Estendibile
 - è Ubiquitaria
+
++++
+
+![](http://www.omgubuntu.co.uk/wp-content/uploads/2017/05/Ubuntu-on-the-Windows-Store.jpg)
+
++++
+
+## bash è una shell
+
++++
+
+## Usiamo la shell
+
+## dove sono? 
