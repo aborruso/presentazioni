@@ -15,6 +15,13 @@
 <span style="color:white">Mi occupo rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
++++
+
+## Spazi
+
+- chat: [bit.ly/odschat](http://bit.ly/odschat)
+- repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
+
 ---
 
 # Non parliamo di dati aperti
@@ -199,6 +206,12 @@ csvstat artworks2500.csv
 ## Query
 
     csvsql --query "select count(*) AS 'numero', Artist from artworks2500  group by Artist order by numero desc limit 10" artworks2500.csv
+
+---
+# scraping con scrape
+
+[scrape](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape) estrae elementi da una pagina HTML usando query XPath or CSS selector. È basato su Python e sul grandioso lxml.
+
 
 ---
 
