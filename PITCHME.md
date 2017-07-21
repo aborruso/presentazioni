@@ -1,4 +1,4 @@
-#### dati a riga di comando
+#### dati da riga di comando
 <br>
 <span style="color:gray">Roba vecchia, molto innovativa</span>
 <br>
@@ -31,3 +31,7 @@ dei dati relativi alla terra e all’ambiente.
 +++
 
 ![](./imgs/tools.jpg)
+
++++?image=imgs/pipes.jpg
+
++++?image=imgs/lemmings.jpg
