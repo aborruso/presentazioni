@@ -266,8 +266,8 @@ jq homepage: [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
 
 ```json
 {
-  "name": "Matthew",
-  "role": "author"
+  "name": "Andrea",
+  "ruolo": "cuoco"
 }
 ```
 
