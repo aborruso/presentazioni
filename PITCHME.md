@@ -102,6 +102,33 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 - `echo 'la variabile $USER contiene il nome utente.'"Io sono $USER"''`
 
 ---
+# Input e Output
+
+`faiQualcosa inputFile outputFile`
+
++++
+
+## Output a schermo
+
++++
+
+## Output in un file (>)
+ 
+`echo ciao > output`
+
++++
+
+## Output in un file in append (>>)
+
+`echo ciao >> output`
+
++++
+
+## Impostare input (<)
+
+`<file wc -l`
+
+---
 
 # Link
 
@@ -119,4 +146,4 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 Andrea Borruso
 
-@aborruso | aborruso@gmail.com
+[@aborruso](https://twitter.com/aborruso) | [aborruso@gmail.com](mailto:aborruso@gmail.com)
