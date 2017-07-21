@@ -274,6 +274,36 @@ jq homepage: [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
 
 Un esempio di JSON da [dati.gov.it](http://www.dati.gov.it/api/3/action/package_show?id=personale-provinciale-rapporto-lavoro-non-tempo-indeterminato)
 
++++
+
+## Recuperiamo l'id
+
+Nella struttua del JSON l'id corrisponde a `.result.id`.
+
+Con jq per estrarlo:
+
+```bash
+curl "http://www.dati.gov.it/api/3/action/package_show?id=personale-provinciale-rapporto-lavoro-non-tempo-indeterminato" | \
+jq '.result.id'
+```
++++
+
+## Recuperiamo le info sulle risorse
+
++++
+
+```bash
+curl "http://www.dati.gov.it/api/3/action/package_show?id=personale-provinciale-rapporto-lavoro-non-tempo-indeterminato" | \
+jq '.result.resources'  | \
+in2csv -f json | \
+csvcut -c 1,2,3 | \
+csvlook
+```
+
+## Cambiamo la struttura
+
+`[.result.resources[] | {nome:.name,formato:.format}]`
+
 ---
 
 # Link
