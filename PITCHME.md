@@ -216,7 +216,7 @@ csvstat artworks2500.csv
 
 ## I comuni italiani che iniziano per "Z"
 
-Pagina sorgente: [wikipedia](https://it.wikipedia.org/wiki/Comuni_d%27Italia_(Z)?oldformat=true)
+Pagina sorgente: [wikipedia](https://goo.gl/VzmQBx)
 
 ```bash
 curl "https://it.wikipedia.org/wiki/Comuni_d%27Italia_(Z)?oldformat=true" | \
