@@ -147,7 +147,7 @@ curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/
 
 +++
 
-## Visualizzarne solo alcune righe
+## Visualizzare solo alcune righe
 
 ```bash
 # le prime 5
@@ -158,17 +158,24 @@ tail -n 5 artworks.csv
 
 +++
 
-## Visualizzarne solo alcune colonne
+## Visualizzare solo alcune colonne
 
 ```
 csvcut  -c 1,3 artworks.csv
+csvcut -c Artist,ArtistBio,Date artworks.csv
 head -n 3 artworks.csv | csvcut  -c 1,3
 head -n 3 artworks.csv | csvcut  -c 1,3 | csvlook
 ```
 
++++
+
 # il pipe è magia
 
 ## anche csvkit è magia
+
+## Analisi
+
+csvstat artworks.csv
 
 ---
 
