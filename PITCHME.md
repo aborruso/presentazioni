@@ -35,3 +35,12 @@ dei dati relativi alla terra e all’ambiente.
 +++?image=imgs/pipes.jpg&size=contain
 
 +++?image=imgs/lemmings.jpg&size=contain
+
+---
+
+La command line
+
+- è Agile
+- è Scalabile
+- è Estendibile
+- è Ubiquitaria
