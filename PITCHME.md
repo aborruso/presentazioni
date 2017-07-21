@@ -184,15 +184,21 @@ head -n 3 artworks.csv | csvcut  -c 1,3 | csvlook
 
 +++
 
-## creiamo un file con le prime 10000
+## creiamo un file con le prime 2500
 
-    head -n 10000 artworks.csv > artworks10000.csv
+    head -n 2500 artworks.csv > artworks2500.csv
 
 +++
 
 ## Analisi
 
-csvstat artworks10000.csv
+csvstat artworks2500.csv
+
++++
+
+## Query
+
+    csvsql --query "select count(*) AS 'numero', Artist from artworks2500  group by Artist order by numero desc limit 10" artworks2500.csv
 
 ---
 
