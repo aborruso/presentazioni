@@ -300,6 +300,8 @@ csvcut -c 1,2,3 | \
 csvlook
 ```
 
++++
+
 ## Cambiamo la struttura
 
 `[.result.resources[] | {nome:.name,formato:.format}]`
