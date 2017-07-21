@@ -212,6 +212,21 @@ csvstat artworks2500.csv
 
 [scrape](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape) estrae elementi da una pagina HTML usando query XPath or CSS selector. È basato su Python e sul grandioso lxml.
 
++++
+
+## I comuni italiani che iniziano per "Z"
+
+Pagina sorgente: [wikipedia](https://it.wikipedia.org/wiki/Comuni_d%27Italia_(Z)?oldformat=true)
+
+```bash
+curl "https://it.wikipedia.org/wiki/Comuni_d%27Italia_(Z)?oldformat=true" | \
+scrape -be "//table[1]//tr/td[1]/a" | \
+xmlstarlet sel --html -t -m "//a" -v "." -n
+```
+
++++
+
+## Quanti sono?
 
 ---
 
