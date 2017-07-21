@@ -14,3 +14,12 @@ Sono un geomatico
 Mi occupo rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.
 
+---
+
+# Non parliamo di dati aperti
+
+---
+
+# Andiamo a commandare
+
+![](./imgs/shell00.png)
