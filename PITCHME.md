@@ -59,6 +59,8 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 ## bash è una shell
 
++++
+
 ## 5 tipi di tool
 
 - A binary executable
