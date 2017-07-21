@@ -42,6 +42,8 @@ dei dati relativi alla terra e all’ambiente.
 
 Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto dell'utente.
 
++++
+
 ## La command line
 
 - è Agile
@@ -57,8 +59,34 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 ## bash è una shell
 
+---
+
+# Usiamo la shell
+
 +++
 
-## Usiamo la shell
-
 ## dove sono? 
+
+`pwd` (print working directory)
+
++++
+
+## cosa è pwd?
+
+`man pwd`
+
++++
+
+## Info sui file
+
+- `ls` -l (`-l` è un argomento)
+- `stat`
+- `file`
+
++++
+
+## Variabili ed espansioni variabili
+
+- `echo "il mio utente è $USER"`
+- `echo 'la variabile $USER contiene il nome utente'`
+- `echo 'la variabile $USER contiene il nome utente.'"Io sono $USER"''`
