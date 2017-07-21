@@ -100,3 +100,13 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 - `echo "il mio utente è $USER"`
 - `echo 'la variabile $USER contiene il nome utente'`
 - `echo 'la variabile $USER contiene il nome utente.'"Io sono $USER"''`
+
+---
+
+# Link
+
+- [Data Science at the Command Line](http://datascienceatthecommandline.com/)
+- [Classic Shell Scripting](http://shop.oreilly.com/product/9780596005955.do)
+- [commandlinefu](http://www.commandlinefu.com/commands/browse)
+- [explainshell](https://explainshell.com/)
+- [tldr](https://tldr.ostera.io/)
