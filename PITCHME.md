@@ -9,10 +9,11 @@
 +++?image=imgs/osm.png&size=contain
 
 # whoIam
-Sono un geomatico
 
-Mi occupo rilevamento e trattamento informatico
-dei dati relativi alla terra e all’ambiente.
+<span style="color:white">Sono un geomatico</span>
+
+<span style="color:white">Mi occupo rilevamento e trattamento informatico
+dei dati relativi alla terra e all’ambiente.</span>
 
 ---
 
