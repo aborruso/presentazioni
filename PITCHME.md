@@ -107,6 +107,16 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
 - [Classic Shell Scripting](http://shop.oreilly.com/product/9780596005955.do)
+- [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Impara X in Y minuti](https://learnxinyminutes.com/docs/it-it/bash-it/)
 - [commandlinefu](http://www.commandlinefu.com/commands/browse)
 - [explainshell](https://explainshell.com/)
 - [tldr](https://tldr.ostera.io/)
+
+---
+
+![](http://gifs.joelglovier.com/thank-you/thank-you-zach.gif)
+
+Andrea Borruso
+
+@aborruso | aborruso@gmail.com
