@@ -272,6 +272,8 @@ jq homepage: [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
 ```
 +++?gist=f089f4e5c60106be973e13948aec55bb
 
+Un esempio di JSON da [dati.gov.it](http://www.dati.gov.it/api/3/action/package_show?id=personale-provinciale-rapporto-lavoro-non-tempo-indeterminato)
+
 ---
 
 # Link
