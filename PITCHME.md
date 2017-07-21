@@ -164,6 +164,11 @@ tail -n 5 artworks.csv
 csvcut  -c 1,3 artworks.csv
 head -n 3 artworks.csv | csvcut  -c 1,3
 head -n 3 artworks.csv | csvcut  -c 1,3 | csvlook
+```
+
+# il pipe è magia
+
+## anche csvkit è magia
 
 ---
 
