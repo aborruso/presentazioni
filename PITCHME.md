@@ -171,11 +171,27 @@ head -n 3 artworks.csv | csvcut  -c 1,3 | csvlook
 
 # il pipe è magia
 
++++
+
 ## anche csvkit è magia
+
++++
+
+## da quante righe è fatto
+
+    wc -l artworks.csv 
+
++++
+
+## creiamo un file con le prime 10000
+
+    head -n 10000 artworks.csv > artworks10000.csv
+
++++
 
 ## Analisi
 
-csvstat artworks.csv
+csvstat artworks10000.csv
 
 ---
 
