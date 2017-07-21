@@ -130,6 +130,23 @@ Uno dei programmi disponibili su Unix, per eseguire altri programmi per conto de
 
 ---
 
+# on the job
+
+---
+
+## Download di un dato
+
+```bash
+# visualizzo
+curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv"
+# scarico il file
+curl "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
+# scarico il file in modalità silent
+curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
+```
+
+---
+
 # Link
 
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
