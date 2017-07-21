@@ -23,3 +23,11 @@ dei dati relativi alla terra e all’ambiente.
 # Andiamo a commandare
 
 ![](./imgs/shell00.png)
+
++++
+
+## Fare cose nuove con strumenti del 1960?
+
++++
+
+![](./imgs/tools.jpg)
