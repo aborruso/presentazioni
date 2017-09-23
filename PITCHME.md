@@ -21,7 +21,7 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-![](./imgs/civicHacking.png)
+[![](./imgs/civicHacking.png)](http://civichacking.it)
 
 +++
 Andrea Borruso
