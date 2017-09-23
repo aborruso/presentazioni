@@ -1,6 +1,6 @@
 #### Riuso dei dati nelle emergenze e nelle iniziative di cittadinanza attiva
 <br>
-<span style="color:gray">OpenRa: Webinar 2</span>
+<span style="color:gray">OpenRa: Webinar</span>
 <br>
 <span style="color:gray"></span>
 <br>
@@ -21,7 +21,7 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-[![](./imgs/civicHacking.png)](http://civichacking.it)
+[![Foo](./imgs/civicHacking.png)](http://civichacking.it)
 
 +++
 Andrea Borruso
