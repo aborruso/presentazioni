@@ -1,6 +1,6 @@
-#### dati da riga di comando
+#### Riuso dei dati nelle emergenze e nelle iniziative di cittadinanza attiva
 <br>
-<span style="color:gray">Riuso dei dati nelle emergenze e nelle iniziative di cittadinanza attiva</span>
+<span style="color:gray">OpenRa: Webinar 2</span>
 <br>
 <span style="color:gray"></span>
 <br>
