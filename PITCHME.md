@@ -57,8 +57,25 @@ https://mobilitasostenibile.comune.palermo.it/news.php?func=1&id=3401
 <geo:lat>38.1453565</geo:lat>
 <geo:long>13.333013599999958</geo:long>
 </item>
-<item>
 ```
++++
+
+["Palermo Incidenti"](https://goo.gl/gpFujg) di [Guenter Richter](https://mobile.twitter.com/grichter)
+![](./imgs/incidenti.png)
+
++++
+
+![](./imgs/telegram.jpg)
+
++++
+
+## È pop
+
+### Perché non sia solo per "tecnici"
+
+**RSS** > Decine di modalità d'uso per tutti!
+
+
 
 +++
 
