@@ -75,14 +75,23 @@ https://mobilitasostenibile.comune.palermo.it/news.php?func=1&id=3401
 
 STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
-+++
-
-# Il riuso come necessità
-
 +++?image=imgs/louisville.png&size=contain
 
 +++
 
+## Il riuso per la crescita della **consapevolezza**
+
+![](./imgs/iftttTwitter.png)
+
++++
+[http://dati.regione.sardegna.it/feeds/dataset.atom](http://dati.regione.sardegna.it/feeds/dataset.atom)
+
+![](./imgs/feedRSSRegioneSardegna.png)
+
++++
+# Il riuso come necessità
+
++++
 
 ![](./imgs/arpaCalabria.png)
 
