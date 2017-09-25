@@ -84,12 +84,20 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 ![](./imgs/iftttTwitter.png)
 
 +++
+
 [http://dati.regione.sardegna.it/feeds/dataset.atom](http://dati.regione.sardegna.it/feeds/dataset.atom)
 
 ![](./imgs/feedRSSRegioneSardegna.png)
 
 +++
+
 # Il riuso come necessità
+
++++
+
+![](./imgs/ANBSC.png)
+
++++?image=imgs/ANBSC2.png&size=contain
 
 +++
 
