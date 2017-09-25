@@ -101,7 +101,7 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
-**Impossibile fare monitoraggio** > **siamo stati costretti a fare riuso**
+**Impossibile fare monitoraggio** > **siamo stati "costretti" a fare riuso**
 
 +++
 
@@ -111,6 +111,20 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 - condivisione
 - raggruppamento
 - analisi
+
++++
+
+## Crescita per tutti
+
+- per noi "tecnici" che siamo stati costretti ad andare su un tema importante e dal gran valore sociale;
+- per il mondo dell'associazionismo che fa diventare "proprio" il valore dei dati e il loro riuso;
+- per la Pubblica Amministrazione, che da sostanza sostanza alla forma.
+
++++
+
+## Houston (uragano Harvey)
+
+> Open data should be part of any city’s disaster preparedness plan. Residents need as much information as possible during disasters, and open data platforms can deliver it even if city hall is closed. 
 
 +++
 
