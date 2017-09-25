@@ -150,7 +150,7 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
-# Incontrare ler persone
+# Incontrare le persone
 
 +++
 Andrea Borruso
