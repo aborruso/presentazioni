@@ -71,19 +71,15 @@ https://mobilitasostenibile.comune.palermo.it/news.php?func=1&id=3401
 
 ## È pop
 
-### Perché non sia solo per "tecnici"
+### Non è soltanto per "tecnici"
 
-**RSS** > Decine di modalità d'uso per tutti!
-
-
+STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
 # Il riuso come necessità
 
-+++
-
-# 
++++?image=imgs/louisville.png&size=contain
 
 +++
 
