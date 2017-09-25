@@ -144,6 +144,10 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
++++?image=imgs/foiaPOP.png&size=contain
+
++++
+
 ![](./imgs/arpaCalabria.png)
 
 +++
