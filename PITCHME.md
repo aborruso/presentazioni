@@ -124,13 +124,23 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 ## Houston (uragano Harvey)
 
-> Open data should be part of any city’s disaster preparedness plan. Residents need as much information as possible during disasters, and open data platforms can deliver it even if city hall is closed. 
+> Open data should be part of any city’s disaster preparedness plan. Residents need as much information as possible during disasters, and open data platforms can deliver it even if city hall is closed.
 
 +++
 
 - [dati aperti, sul livello delle acque](https://www.harriscountyfws.org);
 - [i percorsi di evacuazione](http://statescoop.com/in-the-wake-of-hurricane-harvey-technologists-grab-data-to-lend-a-hand);
 - i rifugi della Croce Rossa.
+
++++
+
+![](./imgs/tci.png)
+
++++
+
+![](./imgs/tci2.png)
+
++++?image=imgs/IAF.png&size=contain
 
 +++
 
