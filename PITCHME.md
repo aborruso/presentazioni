@@ -24,6 +24,12 @@ dei dati relativi alla terra e all’ambiente.</span>
 [![Foo](./imgs/civicHacking.png)](http://civichacking.it)
 
 +++
+
+## riuso??
+
+https://twitter.com/ArpaCalabria/status/911182446082842624
+
++++
 Andrea Borruso
 
 [@aborruso](https://twitter.com/aborruso) | [aborruso@gmail.com](mailto:aborruso@gmail.com)
