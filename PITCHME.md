@@ -101,6 +101,17 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
+**Impossibile fare monitoraggio** > **siamo stati costretti a fare riuso**
+
++++
+
+- scraping
+- pulizia |
+- arricchimento |
+- condivisione |
+
++++
+
 ![](./imgs/arpaCalabria.png)
 
 +++
