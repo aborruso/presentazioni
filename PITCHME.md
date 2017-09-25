@@ -149,6 +149,10 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 ![](./imgs/arpaCalabria.png)
 
 +++
+
+# Incontrare ler persone
+
++++
 Andrea Borruso
 
 [@aborruso](https://twitter.com/aborruso) | [aborruso@gmail.com](mailto:aborruso@gmail.com)
