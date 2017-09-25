@@ -128,6 +128,12 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
+- [dati aperti, sul livello delle acque](https://www.harriscountyfws.org);
+- [i percorsi di evacuazione](http://statescoop.com/in-the-wake-of-hurricane-harvey-technologists-grab-data-to-lend-a-hand);
+- i rifugi della Croce Rossa.
+
++++
+
 ![](./imgs/arpaCalabria.png)
 
 +++
