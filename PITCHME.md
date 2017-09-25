@@ -21,10 +21,9 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-![](./imgs/civicHacking.png)
-
 [civichacking.it](http://civichacking.it)
 
+![](./imgs/civicHacking.png)
 
 +++
 
