@@ -106,9 +106,11 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 +++
 
 - scraping
-- pulizia |
-- arricchimento |
-- condivisione |
+- pulizia
+- arricchimento
+- condivisione
+- raggruppamento
+- analisi
 
 +++
 
