@@ -142,8 +142,6 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++?image=imgs/IAF.png&size=contain
 
-+++
-
 +++?image=imgs/foiaPOP.png&size=contain
 
 +++
