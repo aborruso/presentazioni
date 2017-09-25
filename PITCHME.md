@@ -31,9 +31,47 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-## riuso??
+# Casi e storie di riuso, nel bene e nel male
 
-https://twitter.com/ArpaCalabria/status/911182446082842624
++++
+
+# Il riuso come conseguenza
+
++++
+
+```XML
+<item>
+<guid>
+https://mobilitasostenibile.comune.palermo.it/news.php?func=1&id=3401
+</guid>
+<title>Lavori in corso</title>
+<description>
+Via Sardegna,42 possibili rallentamenti al flusso veicolare causa lavori urgenti di costruzione nuovo allaccio fognario.
+</description>
+<link>
+https://mobilitasostenibile.comune.palermo.it/news.php?func=1&id=3401
+</link>
+<author>webmaster@comune.palermo.it (Comune di Palermo)</author>
+<category>Tweet PM</category>
+<pubDate>Mon, 25 Sep 2017 07:24:24 GMT</pubDate>
+<geo:lat>38.1453565</geo:lat>
+<geo:long>13.333013599999958</geo:long>
+</item>
+<item>
+```
+
++++
+
+# Il riuso come necessità
+
++++
+
+# 
+
++++
+
+
+![](./imgs/arpaCalabria.png)
 
 +++
 Andrea Borruso
