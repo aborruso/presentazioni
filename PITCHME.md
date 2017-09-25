@@ -1,6 +1,6 @@
 #### Riuso dei dati nelle emergenze e nelle iniziative di cittadinanza attiva
 <br>
-<span style="color:gray">OpenRa: Webinar</span>
+<span style="color:gray">OpenRAS</span>
 <br>
 <span style="color:gray"></span>
 <br>
@@ -18,6 +18,10 @@ dei dati relativi alla terra e all’ambiente.</span>
 +++
 
 # qui, sono un civic hacker
+
++++?image=imgs/avengers_age_of_ultron_2015_movie-wide.jpg&size=contain
+
+## NON SIAMO COSÌ
 
 +++
 
