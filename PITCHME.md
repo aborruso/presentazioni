@@ -25,7 +25,7 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 [a](http://civichacking.it)
 
-[![Creative Commons License](./imgs/civicHacking.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/)
+[![Creative Commons License](https://static1.squarespace.com/static/5003cc4ec4aaab8fd03faf2f/t/527c30dae4b0307b4020d853/1383870683718/omnifocus-promo.png?format=500w)](http://creativecommons.org/licenses/by-nc-nd/3.0/)
 
 +++
 
