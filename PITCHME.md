@@ -122,6 +122,11 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
+[https://twitter.com/ArpaCalabria/status/911182446082842624](https://twitter.com/ArpaCalabria/status/911182446082842624)
+![](./imgs/arpaCalabria.png)
+
++++
+
 ## Houston (uragano Harvey)
 
 > Open data should be part of any city’s disaster preparedness plan. Residents need as much information as possible during disasters, and open data platforms can deliver it even if city hall is closed.
@@ -142,15 +147,32 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++?image=imgs/IAF.png&size=contain
 
++++
+
+[http://italiaafuoco.info/2017-07-28-mappa-incendi-sicilia/](http://italiaafuoco.info/2017-07-28-mappa-incendi-sicilia/)
+![](./imgs/IAF2.png)
+
 +++?image=imgs/foiaPOP.png&size=contain
 
 +++
 
-![](./imgs/arpaCalabria.png)
+# Riuso della conoscenza
+## Fare conoscere il patrimonio informativo
+
++++
+
+[http://effis.jrc.ec.europa.eu](http://effis.jrc.ec.europa.eu)
+![](./imgs/effis.png)
+
++++
+
+[https://medium.com/tantotanto/informazioni-aggiornate-e-affidabili-sugli-incendi-in-europa-22f07afad899](https://medium.com/tantotanto/informazioni-aggiornate-e-affidabili-sugli-incendi-in-europa-22f07afad899)
+![](./imgs/effis2.png)
 
 +++
 
 # Incontrare le persone
+## Fortunata la PA che incontra rompiscatole, fortunato il Civic Hacker che parla con il freddo funzionario
 
 +++
 Andrea Borruso
