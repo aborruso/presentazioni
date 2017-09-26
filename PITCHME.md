@@ -171,7 +171,7 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
-## Incontrare le persone
+# Incontrarsi
 ### Fortunata la PA che incontra rompiscatole, fortunato il Civic Hacker che parla con il freddo funzionario
 
 +++
