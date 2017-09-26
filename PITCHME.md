@@ -118,7 +118,7 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 - per noi "tecnici" che siamo stati costretti ad andare su un tema importante e dal gran valore sociale;
 - per il mondo dell'associazionismo che fa diventare "proprio" il valore dei dati e il loro riuso;
-- per la Pubblica Amministrazione, che da sostanza sostanza alla forma.
+- per la Pubblica Amministrazione, che da sostanza alla forma.
 
 +++
 
@@ -171,8 +171,8 @@ STANDARD > **RSS** > Decine di modalità d'uso per tutti!
 
 +++
 
-# Incontrare le persone
-## Fortunata la PA che incontra rompiscatole, fortunato il Civic Hacker che parla con il freddo funzionario
+## Incontrare le persone
+### Fortunata la PA che incontra rompiscatole, fortunato il Civic Hacker che parla con il freddo funzionario
 
 +++
 Andrea Borruso
