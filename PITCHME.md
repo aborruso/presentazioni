@@ -7,8 +7,8 @@
 
 ## Presentazioni
 
-- Faccio "cose" con i dati, con una preferenza per i dati spaziali;
-- sono uno dei fondatori dell'**Associazione onData**, "Associazione per la promozione della trasparenza e della **cultura dei dati** attraverso le competenze digitali e il giornalismo investigativo";
+- Faccio "cose" con i dati, con una preferenza per i **dati spaziali**;
+- sono uno dei fondatori dell'**Associazione onData**, "per la promozione della trasparenza e della **cultura dei dati** attraverso le competenze digitali e il giornalismo investigativo";
 - mi prendo cura di **[OpenDataSicilia](http://opendatasicilia.it/)**
 
 **email**: aborruso@gmail.com | **twitter**: [@aborruso](https://twitter.com/aborruso)
@@ -27,6 +27,9 @@
 
 +++
 
+![YouTube Video](https://www.youtube.com/watch?v=7sC83j6vzjo&t=24s)
+
++++
 [https://www.openstreetmap.org](https://www.openstreetmap.org)
 
 ---
