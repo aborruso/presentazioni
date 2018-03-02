@@ -1,6 +1,7 @@
-# Black
+# OpenstreetMap
 
-### A GitPitch Presentation Template
+### Dati Geografici Aperti
+#### Andrea Borruso (Associazione onData)
 
 ---
 
