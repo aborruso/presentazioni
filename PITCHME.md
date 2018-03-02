@@ -3,7 +3,16 @@
 ### Dati Geografici Aperti
 #### [Andrea Borruso](https://twitter.com/aborruso/) ([Associazione onData](http://ondata.it/))
 
----
++++
+
+## Presentazioni
+
+- Faccio "cose" con i dati, con una preferenza per i dati spaziali;
+- sono uno dei fondatori dell'**Associazione onData**, "Associazione per la promozione della trasparenza e della **cultura dei dati** attraverso le competenze digitali e il giornalismo investigativo";
+- mi prendo cura di **[OpenDataSicilia](http://opendatasicilia.it/)**
+
+email: aborruso@gmail.com | twitter: [@aborruso](https://twitter.com/aborruso)
+---?image=imgs/OpenStreetMap-Data-Report.png
 
 ## Cosa è OpenStreetMap?
 
@@ -17,6 +26,8 @@
 
 - l'avete mai usata?
 - c'è un sito web "famoso" che vi fa pensare a OpenStreetMap?
+
+---
 
 ---
 
