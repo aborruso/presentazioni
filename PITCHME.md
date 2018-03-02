@@ -1,7 +1,11 @@
 ## OpenstreetMap
 
 ### Dati Geografici Aperti
-#### [Andrea Borruso](https://twitter.com/aborruso/) (Associazione onData)
+#### [Andrea Borruso](https://twitter.com/aborruso/) ([Associazione onData](http://ondata.it/))
+
+---
+
+## Cosa è OpenStreetMap
 
 ---
 
