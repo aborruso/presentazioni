@@ -1,7 +1,7 @@
-# OpenstreetMap
+## OpenstreetMap
 
 ### Dati Geografici Aperti
-#### Andrea Borruso (Associazione onData)
+#### [Andrea Borruso](https://twitter.com/aborruso/) (Associazione onData)
 
 ---
 
