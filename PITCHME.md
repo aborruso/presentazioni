@@ -53,7 +53,11 @@ Cosa ha questo video di speciale?
 
 ## Di tutti i colori
 
-[![colori](./imgs/colori.png)](http://maps.stamen.com/#terrain/16/38.1848/15.5505)
+[![colori](/imgs/colori.png)](http://maps.stamen.com/#terrain/16/38.1848/15.5505)
+
++++
+
+[![colori](odd18/imgs/colori.png)](http://maps.stamen.com/#terrain/16/38.1848/15.5505)
 
 +++
 
