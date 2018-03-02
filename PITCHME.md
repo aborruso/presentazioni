@@ -5,7 +5,7 @@
 
 ---
 
-## Cosa è OpenStreetMap
+## Cosa è OpenStreetMap?
 
 ---
 
