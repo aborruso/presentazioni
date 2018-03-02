@@ -61,6 +61,10 @@ Cosa ha questo video di speciale?
 
 +++
 
+![Image-Absolute](assets/colori.png)
+
++++
+
 
 ## Tips!
 
