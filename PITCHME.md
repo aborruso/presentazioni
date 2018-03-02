@@ -47,21 +47,17 @@ Cosa ha questo video di speciale?
 
 +++
 
-![compare](assets/compare.png)
+![compare](imgs/compare.png)
+
+[confronto]((https://tools.geofabrik.de/mc/#16/38.2201/15.2380&num=2&mt0=mapnik&mt1=google-map))
 
 +++
 
 ## Di tutti i colori
 
-![colori](assets/colori.png)
+![colori](imgs/colori.png)
 
-+++
-
-![colori](assets/colori.png)
-
-+++
-
-![Image-Absolute](assets/colori.png)
+[di tutti i color]((http://maps.stamen.com/#terrain/16/38.1848/15.5505))
 
 +++
 
