@@ -16,18 +16,18 @@ email: aborruso@gmail.com | twitter: [@aborruso](https://twitter.com/aborruso)
 
 ## Cosa è OpenStreetMap?
 
----
++++
 
 > OpenStreetMap è una mappa del mondo, **creata da persone come te** e **libera da utilizzare** secondo una **licenza aperta**.
 
 [https://www.openstreetmap.org](https://www.openstreetmap.org)
 
----
++++
 
 - l'avete mai usata?
 - c'è un sito web "famoso" che vi fa pensare a OpenStreetMap?
 
----
++++
 
 ---
 
