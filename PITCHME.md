@@ -27,7 +27,7 @@
 
 +++
 
-![YouTube Video](https://www.youtube.com/watch?v=7sC83j6vzjo&t=24s)
+![YouTube Video](https://www.youtube.com/embed/7sC83j6vzjo)
 
 +++
 [https://www.openstreetmap.org](https://www.openstreetmap.org)
