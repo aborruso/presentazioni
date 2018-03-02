@@ -11,7 +11,7 @@
 - sono uno dei fondatori dell'**Associazione onData**, "Associazione per la promozione della trasparenza e della **cultura dei dati** attraverso le competenze digitali e il giornalismo investigativo";
 - mi prendo cura di **[OpenDataSicilia](http://opendatasicilia.it/)**
 
-email: aborruso@gmail.com | twitter: [@aborruso](https://twitter.com/aborruso)
+**email**: aborruso@gmail.com | **twitter**: [@aborruso](https://twitter.com/aborruso)
 ---?image=imgs/OpenStreetMap-Data-Report.png
 
 ## Cosa è OpenStreetMap?
@@ -20,14 +20,14 @@ email: aborruso@gmail.com | twitter: [@aborruso](https://twitter.com/aborruso)
 
 > OpenStreetMap è una mappa del mondo, **creata da persone come te** e **libera da utilizzare** secondo una **licenza aperta**.
 
-[https://www.openstreetmap.org](https://www.openstreetmap.org)
-
 +++
 
 - l'avete mai usata?
 - c'è un sito web "famoso" che vi fa pensare a OpenStreetMap?
 
 +++
+
+[https://www.openstreetmap.org](https://www.openstreetmap.org)
 
 ---
 
