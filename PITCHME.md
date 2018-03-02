@@ -30,9 +30,26 @@
 ![YouTube Video](https://www.youtube.com/embed/7sC83j6vzjo)
 
 +++
-[https://www.openstreetmap.org](https://www.openstreetmap.org)
+
+Cosa ha questo video di speciale?
 
 ---
+
+# Anagrafica
+
+- homepage [https://www.openstreetmap.org](https://www.openstreetmap.org);
+- mailing list [http://gis.19327.n8.nabble.com/Italy-f5324173.html];(http://gis.19327.n8.nabble.com/Italy-f5324173.html);
+- la guida per iniziare [https://wiki.openstreetmap.org/wiki/IT:Beginners%27_guide](https://wiki.openstreetmap.org/wiki/IT:Beginners%27_guide)
+
++++
+
+[Partiamo da noi](https://www.openstreetmap.org/#map=18/38.22174/15.23622)
+
++++
+
+![compare](imgs/compare.png)
+
+
 
 
 ## Tips!
