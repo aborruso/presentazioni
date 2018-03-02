@@ -55,9 +55,33 @@ Cosa ha questo video di speciale?
 
 ![colori](imgs/colori.png)
 
-[di tutti i color](http://maps.stamen.com/#terrain/16/38.1848/15.5505)
+[di tutti i colori](http://maps.stamen.com/#terrain/16/38.1848/15.5505)
 
 +++
+
+![3d](imgs/3d.png)
+
+[3D](http://demo.f4map.com/#lat=38.2204431&lon=15.2421646&zoom=15&camera.theta=0.9)
+
+---
+
+## Come funziona?
+
+---
+
+## [Cosa si mappa](https://taginfo.openstreetmap.org/)?
+
+---
+
+## Chi la fa funzionare
+
++++
+
+![chi](imgs/chi.png)
+
+[Chi?](http://resultmaps.neis-one.org/oooc?zoom=12&lat=38.21798&lon=15.26903&layers=B0TFFFFFT)
+
+---
 
 
 ## Tips!
