@@ -85,14 +85,24 @@ Cosa ha questo video di speciale?
 ### ways
 
 ![](imgs/ways.png)
++++
 
 ### relazioni
 
 ![](imgs/relazioni.png)
 
++++
+
+![](https://www.mapbox.com/mapping/images/relations.gif)
+
++++
+
+## [i tag](https://taginfo.openstreetmap.org/)?
+
 ---
 
-## [Cosa si mappa](https://taginfo.openstreetmap.org/)?
+## [Cosa si mappa](https://wiki.openstreetmap.org/wiki/IT:Map_Features)
+
 
 ---
 
@@ -102,7 +112,7 @@ Cosa ha questo video di speciale?
 
 ![chi](imgs/chi.png)
 
-[Chi?](http://resultmaps.neis-one.org/oooc?zoom=12&lat=38.21798&lon=15.26903&layers=B0TFFFFFT)
+[Chi?](http://resultmaps.neis-one.org/oooc?zoom=12&lat=38.21798&lon=15.26903&layers=B0TFFFFFT), [la palma](https://www.openstreetmap.org/node/3698654147)
 
 ---
 
