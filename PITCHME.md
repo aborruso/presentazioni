@@ -39,7 +39,9 @@ Cosa ha questo video di speciale?
 
 - homepage [https://www.openstreetmap.org](https://www.openstreetmap.org);
 - mailing list [http://gis.19327.n8.nabble.com/Italy-f5324173.html];(http://gis.19327.n8.nabble.com/Italy-f5324173.html);
-- la guida per iniziare [https://wiki.openstreetmap.org/wiki/IT:Beginners%27_guide](https://wiki.openstreetmap.org/wiki/IT:Beginners%27_guide)
+- le guide per iniziare:
+  - [il wiki di OSM](https://wiki.openstreetmap.org/wiki/IT:Beginners%27_guide)
+  - [learnOSM](http://learnosm.org/it/)
 
 +++
 
@@ -66,6 +68,27 @@ Cosa ha questo video di speciale?
 ---
 
 ## Come funziona?
+
++++
+
+### Il modello dei dati
+
+![](imgs/node-way-relation.png)
+
++++
+### nodi
+
+![](imgs/nodi.png)
+
++++
+
+### ways
+
+![](imgs/ways.png)
+
+### relazioni
+
+![](imgs/relazioni.png)
 
 ---
 
