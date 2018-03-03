@@ -114,6 +114,10 @@ Cosa ha questo video di speciale?
 
 [Chi?](http://resultmaps.neis-one.org/oooc?zoom=12&lat=38.21798&lon=15.26903&layers=B0TFFFFFT), [la palma](https://www.openstreetmap.org/node/3698654147)
 
++++
+
+### Una [panoramica](http://resultmaps.neis-one.org/)
+
 ---
 
 ## Che cosa ci si fa
@@ -132,6 +136,10 @@ Cosa ha questo video di speciale?
 ### Per la conservazione digitale dei beni culturali
 
 La Villa Romana di Patti Marina: [1](http://www.telebitconsulting.it/infopatti/npc15/npc15_villa_romana.html), [2](https://tools.geofabrik.de/mc/#18/38.1490/14.9723&num=2&mt0=mapnik&mt1=google-map)
+
++++
+
+### Ricerca
 
 +++
 ### Business
@@ -155,6 +163,14 @@ Il [wiki](https://github.com/ondata/rastrellierebologna)
 +++
 
 ### Si [interroga](http://overpass-turbo.eu/s/wFE)
+
++++
+
+### Si mappano le [**barriere**](http://resultmaps.neis-one.org/)
+
++++
+
+### Si arricchisce la più grande enciclopedia libera
 
 ---
 
