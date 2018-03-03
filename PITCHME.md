@@ -93,6 +93,16 @@ Cosa ha questo video di speciale?
 
 +++
 
+![YouTube Video](https://www.youtube.com/embed/oNZ_ZBCTRqc)
+
++++
+
+### Per la conservazione digitale dei beni culturali
+
+La Villa Romana di Patti Marina: [1](http://www.telebitconsulting.it/infopatti/npc15/npc15_villa_romana.html), [2](https://tools.geofabrik.de/mc/#18/38.1490/14.9723&num=2&mt0=mapnik&mt1=google-map)
+
++++
+
 ## [Le rastrelliere di Bologna](https://ondata.github.io/rastrellierebologna/)
 
 Il [wiki](https://github.com/ondata/rastrellierebologna)
