@@ -152,5 +152,20 @@ La Villa Romana di Patti Marina: [1](http://www.telebitconsulting.it/infopatti/n
 
 Il [wiki](https://github.com/ondata/rastrellierebologna)
 
++++
+
+### Si [interroga](http://overpass-turbo.eu/s/wFE)
+
 ---
+
+### [Mappate](https://www.mapbox.com/mapping/)
+
+![](imgs/mappate.png)
+
+---
+
+### Grazie
+
+#### Andrea Borruso, Associazione onData [http://ondata.it](http://ondata.it)
+
 
